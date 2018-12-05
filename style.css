@@ -1,0 +1,121 @@
+body#background{
+  background:url("background.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+
+.container{
+Width:80%;
+Margin:auto;
+Overflow:hidden;
+}
+
+
+body, html{
+  height:100%
+  font-family:Archivo;
+}
+
+body{
+  background-color:#f4f4f4;
+  color:white;
+  font-family:Archivo;
+}
+
+Header{
+Background-color:rgba(0, 0, 0, 1);
+Color:white;
+Padding-top:0px;
+Min-height:70px;
+border-bottom:
+}
+
+Header a{
+Text-decoration: none;
+Text-transform: uppercase;
+font-size:16px;
+}
+
+Header ul{
+Margin:0;
+Padding:0;
+}
+
+Header li {
+Float:left;
+Display:inline;
+Padding: 0 20px 0 20px;
+}
+
+Header #branding {
+Float:left;
+margin:0;
+}
+
+header #brading h1{
+  margin:0;
+}
+
+Header Nav{
+  float:right;
+  margin:35px;
+}
+
+
+Header a{
+  color:white;
+Font-size:15px;
+}
+
+
+
+Header {
+Float:
+Display:inline;
+}
+
+Header #branding {
+Float:left;
+}
+
+#sctext{
+  color:#white;
+}
+
+#boxes{
+  margin-top:20px;
+  position:relative;
+}
+
+#boxes .box{
+  float:left;
+  text-align: center;
+  width:30%;
+  padding:10px;
+}
+
+#showcase{
+  background:url("images/house3.jpeg")no-repeat;
+  min-height: 500px;
+  text-align:center;
+  color:#fffff;
+}
+
+#showcase h1{
+  margin-top:100px;
+  font-size:55px;
+  margin-bottom:10px;
+}
+
+#showcase p{
+  font-size:20px;
+}
+
+a:hover, a:focus {
+  font-weight: bold;
+  letter-spacing: 0
+  color:#gray;
+}
+
+a:active{
+  color:#black;
+}
